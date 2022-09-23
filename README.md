@@ -3,7 +3,7 @@
 # asdf-fillin [![Build](https://github.com/ouest/asdf-fillin/actions/workflows/build.yml/badge.svg)](https://github.com/ouest/asdf-fillin/actions/workflows/build.yml) [![Lint](https://github.com/ouest/asdf-fillin/actions/workflows/lint.yml/badge.svg)](https://github.com/ouest/asdf-fillin/actions/workflows/lint.yml)
 
 
-[fillin](https://github.com/ouest/asdf-fillin) plugin for the [asdf version manager](https://asdf-vm.com).
+[fillin](https://github.com/itchyny/fillin) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -16,10 +16,7 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
-- `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
+- `bash`, `curl`, `tar` or `unzup` : generic POSIX utilities.
 
 # Install
 
@@ -58,4 +55,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Daisuke NISHISAKA](https://github.com/ouest/)
+See [LICENSE](LICENSE) © [ouest](https://github.com/ouest/)
